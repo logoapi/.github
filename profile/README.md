@@ -17,11 +17,14 @@ Company, stock ticker and crypto logos as SVG, by URL. Free. No key. No signup. 
 | A domain | `https://logoapi.sh/stripe.com.svg` |
 | A stock ticker | `https://logoapi.sh/ticker/AAPL.svg` |
 | A coin | `https://logoapi.sh/crypto/BTC.svg` |
+| Any website's favicon | `https://logoapi.sh/icon/jvns.ca` |
 | A dark background | put `/dark/` first: `https://logoapi.sh/dark/ticker/AAPL.svg` |
 
 2M requests a month per site, free.
 
 - [logo-api](https://github.com/logoapi/logo-api): docs, npm packages and AI skills
+- [crypto-logos](https://github.com/logoapi/crypto-logos): 36 coin logos as SVG files, light and dark, by symbol
+- [favicon-api](https://github.com/logoapi/favicon-api): favicon for any site, with a one-file example
 - [watchlist-example](https://github.com/logoapi/watchlist-example): a stock watchlist with ticker logos, light and dark. Use it as a template.
 - npm: `npm i logoapi` · `npm i stock-ticker-logos` · `npm i crypto-logos`
 - [Logo Finder](https://logoapi.sh/finder) · [Docs](https://logoapi.sh/docs) · [MCP server](https://logoapi.sh/docs/mcp)
